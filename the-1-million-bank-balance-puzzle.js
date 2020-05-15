@@ -1,3 +1,7 @@
+// eslint-disable-next-line no-unused-vars
+const { PerformanceObserver, performance } = require('perf_hooks')
+var t0 = performance.now()
+
 const target = 1000000
 var ledger
 var balance
@@ -30,8 +34,11 @@ for (let y0 = 0; y0 < solution[0] + solution[1]; y0++) {
   }
 }
 
+var t1 = performance.now()
+
 console.log('\n' + 'Solution: ')
 
 console.log('y0 = ' + solution[0] + ', y1 = ' + solution[1] + ', n = ' + solution[2])
 
 console.log(solutionStr)
+console.log('Solution computed in ' + Math.round(t1 - t0) + ' milliseconds.')
