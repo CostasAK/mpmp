@@ -3,12 +3,10 @@
 My Matt Parker's Math Puzzles solutions.
 
 - [The 1 Million Bank Balance Puzzle (MPMP Puzzle 6)](#the-1-million-bank-balance-puzzle-mpmp-puzzle-6)
-  - [The Puzzle](#the-puzzle)
   - [My Solution](#my-solution)
+- [Unique Distancing Puzzle (MPMP7)](#unique-distancing-puzzle-mpmp7)
 
 ## [The 1 Million Bank Balance Puzzle (MPMP Puzzle 6)](https://www.think-maths.co.uk/BankBalance)
-
-### The Puzzle
 
 > A bank is running a competition. You can make **two deposits** (of integer pounds) on two consecutive days and everyday the bank will add your last two **balances** together to give you a new balance.
 >
@@ -30,3 +28,9 @@ Brute force by checking all starting deposits with the following constraints:
 - Save the longest ledger each time a solution is found.
 
 The solution is `144` and `154`, resulting in `19` steps. Computed in approximately `1.6` seconds.
+
+## [Unique Distancing Puzzle (MPMP7)](https://www.think-maths.co.uk/uniquedistance)
+
+> Is it always possible to put n counters on an n x n grid, such that no two counters are the same distance apart?
+>
+> **Puzzle for Submission:** Can you place 6 counters on a 6x6 grid such that the distance between each counter is different?
