@@ -10,5 +10,5 @@
 
 My Matt Parker's Math Puzzles solutions.
 
-- [The 1 Million Bank Balance Puzzle (MPMP6)](006-bank-balance/README.md)
+- [The 1 Million Bank Balance Puzzle (MPMP6)](006-bank-balance)
 - [Unique Distancing Puzzle (MPMP7)](007-unique-distancing)
