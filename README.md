@@ -8,7 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/costasak/mpmp)](https://github.com/CostasAK/mpmp)
 [![Forks](https://img.shields.io/github/forks/costasak/mpmp)](https://github.com/CostasAK/mpmp)-->
 
-My Matt Parker's Math Puzzles solutions.
+My [Matt Parker's Math Puzzles](https://www.think-maths.co.uk/maths-puzzles) solutions.
 
 - [The 1 Million Bank Balance Puzzle (MPMP6)](006-bank-balance)
 - [Unique Distancing Puzzle (MPMP7)](007-unique-distancing)
