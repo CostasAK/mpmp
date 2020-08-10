@@ -13,3 +13,4 @@ My [Matt Parker's Math Puzzles](https://www.think-maths.co.uk/maths-puzzles) sol
 - [Puzzle 6 - 1 Million Bank Balance Puzzle](006-bank-balance)
 - [Puzzle 7 - Unique Distancing Puzzle](007-unique-distancing)
 - [Puzzle 11 - David and Anton Puzzle](011-age)
+- [Puzzle 12 - Marching Band Problem](012-marchingband)

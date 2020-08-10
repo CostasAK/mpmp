@@ -4,6 +4,9 @@
 >
 > **Puzzle for submission**: How old is David?
 
+- [Transcription](#transcription)
+- [Solution](#solution)
+
 ## Transcription
 
 $$
