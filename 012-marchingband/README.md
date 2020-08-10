@@ -11,4 +11,4 @@
 - Count a formation twice, if non-square. This way only ~half the iterations are needed.
 - Stop the loop if exactly 64 formations have been found for a number of members, or when a number of formations is found that far exceeds the goal (to prevent an infinite loop).
 
-The solution is **7560 members**, which was calculated in approximately 6 milliseconds.
+The solution is **7560 members**, which was calculated in approximately 5 milliseconds.

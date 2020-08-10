@@ -17,11 +17,13 @@ while(numberOfFormations != goalNumberOfFormations || numberOfFormations > 10*go
 
   // Brute-force one half. Count non-square formations twice.
   for (let i = 1; i <= numberOfMembers / i; i++) {
-    if (numberOfMembers / i == i) {
-      numberOfFormations = numberOfFormations + 1
-    }
-    else if (numberOfMembers % i == 0) {
-      numberOfFormations = numberOfFormations + 2
+    if (numberOfMembers % i == 0) {
+      if (numberOfMembers / i == i) {
+        numberOfFormations = numberOfFormations + 1
+      }
+      else {
+        numberOfFormations = numberOfFormations + 2
+      }
     }
   }
 }
