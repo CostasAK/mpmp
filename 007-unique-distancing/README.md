@@ -14,7 +14,7 @@ Brute force by checking possible combinations with the following rules:
   - Start calculating distances after the 3rd disk is placed, and every following disk, so an early stop can be done when equal distances are found.
 - ~~Break all loops once a vector of unique distances is found.~~
 
-The solution in given by the graphic below and it was computed in approximately `57` milliseconds. All solutions were found in `693` milliseconds.
+The solution is given by the graphic below and it was computed in approximately `57` milliseconds. All solutions were found in `693` milliseconds.
 
 ![My MPMP7 Solution](./mpmp7_solution.png)
 
