@@ -10,5 +10,6 @@
 
 My [Matt Parker's Math Puzzles](https://www.think-maths.co.uk/maths-puzzles) solutions.
 
-- [The 1 Million Bank Balance Puzzle (MPMP6)](006-bank-balance)
-- [Unique Distancing Puzzle (MPMP7)](007-unique-distancing)
+- [Puzzle 6 - 1 Million Bank Balance Puzzle](006-bank-balance)
+- [Puzzle 7 - Unique Distancing Puzzle](007-unique-distancing)
+- [Puzzle 11 - David and Anton Puzzle](011-age)
