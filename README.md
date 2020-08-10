@@ -1,6 +1,6 @@
 # Costas Kokke's Matt Parker's Maths Puzzles Solutions
 
-<img src="avatar.jpg" alt="Matt Parker" align="right" width="30%">
+<img src="avatar.jpg" alt="Matt Parker" align="right" width="256px">
 
 [![License](https://img.shields.io/github/license/CostasAK/mpmp)](https://github.com/CostasAK/mpmp/blob/master/LICENSE)
 [![Language](https://img.shields.io/github/languages/top/costasak/mpmp)](https://github.com/CostasAK/mpmp)
