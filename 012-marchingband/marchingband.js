@@ -6,7 +6,7 @@ const goalNumberOfFormations = 64
 const { PerformanceObserver, performance } = require('perf_hooks')
 var t0 = performance.now()
 
-var numberOfMembers = 0
+var numberOfMembers = goalNumberOfFormations - 1
 var numberOfFormations = 0
 
 // Loop until a solution is found, or a number of members is reached which results in a much larger amount of formations than the goal to prevent an endless loop.
