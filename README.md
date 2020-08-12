@@ -2,6 +2,7 @@
 
 <img src="avatar.jpg" alt="Matt Parker" align="right" width="256px">
 
+[![Solutions Website](https://img.shields.io/website?label=solutions%20website&url=https%3A%2F%2Fcostasak.github.io%2Fmpmp%2F)](https://costasak.github.io/mpmp/)
 [![License](https://img.shields.io/github/license/CostasAK/mpmp)](https://github.com/CostasAK/mpmp/blob/master/LICENSE)
 [![Language](https://img.shields.io/github/languages/top/costasak/mpmp)](https://github.com/CostasAK/mpmp)
 <!--[![Watchers](https://img.shields.io/github/watchers/costasak/mpmp)](https://github.com/CostasAK/mpmp)
