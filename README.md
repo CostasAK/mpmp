@@ -18,4 +18,4 @@ My [Matt Parker's Math Puzzles](https://www.think-maths.co.uk/maths-puzzles) sol
 - [Puzzle 7 - Unique Distancing Puzzle](007-unique-distancing)
 - [Puzzle 11 - David and Anton Puzzle](011-age)
 - [Puzzle 12 - Marching Band Problem](012-marchingband)
-- [Puzzle 13 - ???](013-soon)
+- [Puzzle 15 - Prime Pairs Puzzle](015-primepairs)
