@@ -9,6 +9,6 @@
 - Place numbers on the number line, one by one, checking each time whether adjacent pairs are prime or not. This can be checked by checking against the already known list of possible primes, making checking faster.
   - If not, the last placement is reverted.
   - If so, a new number is placed next in line from those in the reserve still, using a recursive function call.
-- Any time all numbers are placed and the previously described check is positive, save the solution. Then, take back placements until the reserve is filled such that a new placement that hasn't been processed can be done.
+- Any time all numbers are placed and the previously described check is positive, save the solution if it is unique (not a mirrored version of a solution that was already found). Then, take back placements until the reserve is filled such that a new placement that hasn't been processed can be done.
 
 There are *70* solutions (not counting mirrored solutions) for numbers *1* through *9* and summing pairs. They were all calculated in *8* milliseconds.
